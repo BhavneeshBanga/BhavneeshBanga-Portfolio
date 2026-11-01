@@ -1,0 +1,20 @@
+{
+  "name": "Bhavneesh-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "clsx": "^2.1.1",
+    "framer-motion": "^14.5.0",
+    "lucide-react": "^1.61.0",
+    "next": "15.1.6",
+    "react": "19.0.0",
+    "react-dom": "19.0.0",
+    "rough-notation": "^0.5.1",
+    "tailwind-merge": "^3.7.0"
+  }
+}
